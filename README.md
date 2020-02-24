@@ -3,9 +3,7 @@
 **Audience:** A technical Stripe employee who is familiar with the assignment
 given to me.
 
-### An overview of your application in 1 page or less: how does it work? What
-
-does it do? Which Stripe APIs does it use?
+### An overview of your application in 1 page or less: how does it work? What does it do? Which Stripe APIs does it use?
 
 This application demonstrates how a simple e-commerce store can use Stripe
 Checkout to accept payments. The application’s backend is supported by
@@ -97,9 +95,7 @@ and have a UI that allowed users to view different SKUs for a given product, so
 I knew managing that state and updating the UI would be better handled with a
 framework.
 
-### A paragraph or two about how you might extend this if you were building a
-
-more robust instance of the same application.
+### A paragraph or two about how you might extend this if you were building a more robust instance of the same application.
 
 The application doesn’t currently have any error handling in the frontend or
 backend. On the frontend, the application could benefit by having some error
